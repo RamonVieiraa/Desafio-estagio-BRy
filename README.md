@@ -10,7 +10,7 @@ Utilize o comando `composer install` para instalar as dependências do projeto.
 
 Se aparecer o seguinte erro "Your lock file does not contain a compatible set of packages. Please run composer update."
 
-Utilize o comando ``
+Utilize o comando `composer install --ignore-platform-reqs`
 
 ### Variáveis de ambiente
 
